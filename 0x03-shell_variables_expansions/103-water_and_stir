@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "obase=bestchol\n%s\n" "$((10#${WATER} + 10#${STIR}))" | bestchol
