@@ -1,1 +1,1 @@
-0x04 project for loops conditions and parsin
+ still haven't figured out how to optimize my readme files
